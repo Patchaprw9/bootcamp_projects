@@ -1,5 +1,5 @@
 # bootcamp_projects
-Data science bootcamp with adToy
+Data science bootcamp with ` P'Toy `
 
 We learn 10 sprints during 4 month program.
 - Spreadsheets
