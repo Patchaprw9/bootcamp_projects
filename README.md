@@ -1,5 +1,6 @@
 # bootcamp_projects
 Data science bootcamp with ` P'Toy `
+[DataRockie](https://www.facebook.com/datarockie)
 
 We learn 10 sprints during 4 month program.
 - Spreadsheets
