@@ -5,6 +5,7 @@ Data science bootcamp with ` P'Toy `
 We learn 10 sprints during 4 month program.
 - Spreadsheets
 - SQL Database
+  [Restarants database](https://replit.com/@PatchareeyaPhon/SQLhomeworkbatch6#main.sql) Restarants database contains 4 dimension tables and 1 fact table
 - R Programming
 - Data Transformation
 - Data Visualization
