@@ -4,7 +4,7 @@ Data science bootcamp with ` P'Toy `
 
 We learn 10 sprints during 4 month program.
 - Spreadsheets
-- SOL Database
+- SQL Database
 - R Programming
 - Data Transformation
 - Data Visualization
