@@ -151,3 +151,5 @@ FROM totalSalesByCustomer
 WHERE  customer_gender LIKE 'M'
 GROUP BY customerId
 ORDER BY TotalSales_Men DESC;
+
+
